@@ -84,11 +84,11 @@ main {
 }
 
 .cell.snake {
-  background: #28a745;
+  background: #8c8c8c;
 }
 
 .cell.head {
-  background: linear-gradient(145deg, #1f9d55, #22b573);
+  background: linear-gradient(145deg, #8c8c8c, #8c8c8c);
 }
 
 .cell.food {
