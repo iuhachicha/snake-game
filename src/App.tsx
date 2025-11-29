@@ -176,7 +176,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="hud">
-        <h1>TypeScript Snake</h1>
+        <h1>Snaky</h1>
         <div className="stats">
           <span className="stat">
             Score
